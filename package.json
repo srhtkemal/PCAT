@@ -1,0 +1,20 @@
+{
+  "name": "pcatworking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon start"
+  },
+  "keywords": [
+    "pcat"
+  ],
+  "author": "serhat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1"
+  }
+}
